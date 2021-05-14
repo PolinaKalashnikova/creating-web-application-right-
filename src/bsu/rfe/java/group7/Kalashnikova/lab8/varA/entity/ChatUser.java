@@ -17,6 +17,7 @@ public class ChatUser {
         Kol+=1;
     }
 
+
     public static int getKol() {
         return Kol;
     }
